@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renew\\C#\\CSharp_projects\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\renew\\C#\\CSharp_projects\\TicTacToe\\Tic-Tac-Toe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\renew\\C#\\CSharp_projects\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectPath": "C:\\Users\\renew\\C#\\CSharp_projects\\TicTacToe\\Tic-Tac-Toe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\renew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renew\\C#\\CSharp_projects\\TicTacToe\\TicTacToe\\obj\\",
+      "outputPath": "C:\\Users\\renew\\C#\\CSharp_projects\\TicTacToe\\Tic-Tac-Toe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renew\\AppData\\Roaming\\NuGet\\NuGet.Config",
